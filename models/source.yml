@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: shopping
+    catalog: devcatalog1
+    schema: default
+    tables:
+      - name: customer
+      - name: orders
